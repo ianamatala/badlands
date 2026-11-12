@@ -1,0 +1,20 @@
+{
+  "name": "grid-layout-system",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.108.2",
+    "vite": "^8.3.8"
+  },
+  "dependencies": {
+    "@floating-ui/dom": "^1.8.0",
+    "bootstrap": "^5.3.8",
+    "vanilla-calendar-pro": "^3.4.0"
+  }
+}
